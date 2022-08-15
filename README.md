@@ -1,3 +1,4 @@
 # douban_flask
 基于flask的一个数据可视化的小网站
-练手的一个项目
+
+主要使用了echarts和WordCloud实现数据的可视化
